@@ -9,12 +9,10 @@ Open `index.html` in a browser, or run a local static server from this folder:
 ```powershell
 python -m http.server 4173 --bind 127.0.0.1
 ```
+## 🚀 Live Demo
 
-Then open:
+**Try it here:** https://tmomani11.github.io/Veyra-WMS/
 
-```text
-http://127.0.0.1:4173/index.html
-```
 
 ## Login Accounts
 
